@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: productcatalogue
-        image: ahm2022/productcatalogue:latest
+        image: ahmed/productcatalogue:latest
         ports:
         - containerPort: 8020
         livenessProbe:

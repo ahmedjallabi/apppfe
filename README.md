@@ -2,4 +2,5 @@
 Deploiement d applications Java en utilisant Docker et Kubernetes
 
 Demonstration du fonctionnnement de la suite devops open source gitlab jenkins kubernetes
+demo lel pfe 
 
